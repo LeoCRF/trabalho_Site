@@ -6,7 +6,7 @@ body {
     color: #333;
 }
 header {
-    background-color: #4CAF50;
+    background-color: #c07c15;
     color: white;
     padding: 1rem;
     text-align: center;
@@ -65,7 +65,7 @@ footer {
     background-color: #333;
     color: white;
     text-align: center;
-    padding: 0.5rem; /* Diminui a altura do rodapé */
+    padding: 0.01rem; /* Diminui a altura do rodapé */
     position: fixed;
     width: 100%;
     bottom: 0;
